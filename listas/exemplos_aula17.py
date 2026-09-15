@@ -9,6 +9,7 @@
 # lanche[3] = 'picolé '
 
 #exemplo 3
+
 """
 lanche = ['hamburguer', 'suco', 'pizza', 'pudim']
 lanche.append('cookie')
