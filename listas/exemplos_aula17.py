@@ -42,4 +42,35 @@ print(valores)
 valores = [8, 2, 5, 4, 9, 3, 0]
 valores.sort()
 print(valores)
+
+
+valores = [8, 2, 5, 4, 9, 3, 0]
+valores.sort(reverse=True)
+print(valores)
+
+
+valores = [8, 2, 5, 4, 9, 3, 0]
+print(len(valores))
+
+teste = [2,3,6,7,4]
+teste[3] = 9
+teste.append(5)
+teste.sort()
+print(teste)
+
+
+valores = []
+valores.append(5)
+valores.append(9)
+valores.append(4)
+for c, v in enumerate(valores):
+    print(f'na posção {c} encontrei o valor {v}')
+print('cheguei ao final da lista')         
+
+
+valores = []
+for cont in range(0,5):
+    valores.append(int(input('digite um valor:')))
+print(valores) 
 """
+
