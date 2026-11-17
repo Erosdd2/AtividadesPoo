@@ -1,3 +1,5 @@
+import datetime
+
 class Sala:
     def __init__(self, datainicio, duracao, listaalunos):
         self.datainicio = datainicio
