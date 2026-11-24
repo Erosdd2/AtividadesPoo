@@ -1,0 +1,4 @@
+* abstração: foca apenas no essencial para o contexto do sistema e ignora detalhes complexos.
+define o que um objeto tem (atributos) e faz (métodos)
+
+* encapsulamento: agrupa dados e métodos em uma unidade (classe)
